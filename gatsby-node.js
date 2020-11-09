@@ -1,5 +1,4 @@
 const { createRemoteFileNode } = require(`gatsby-source-filesystem`)
-
 /* Aan de hand van dit stukje code worden de images vanuit WPgraphql omgezet tot images waarop Gatsby image optimization kan toepassen */
 exports.createResolvers = async ({
   actions,

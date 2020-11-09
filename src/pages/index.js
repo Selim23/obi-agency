@@ -70,7 +70,7 @@ const IndexPage = () => {
       }
     }
   `)
-  console.log(homePageFeaturedArtists)
+
   return (
     <Layout>
       <SEO title="Home" />
