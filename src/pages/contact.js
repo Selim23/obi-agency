@@ -12,7 +12,7 @@ import {
 } from "./pageStyles/pageStyles"
 import { COLORS } from "../constants"
 
-const Contact = () => {
+const ContactPage = () => {
   const {
     wpcontent: {
       page: {
@@ -96,4 +96,4 @@ const Contact = () => {
   )
 }
 
-export default Contact
+export default ContactPage
